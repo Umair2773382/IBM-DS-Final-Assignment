@@ -23,11 +23,6 @@ The notebook includes the following exercises:
 3. Review the Markdown cells to understand the structure and content.  
 
 ## Author
-**[Your Name]**  
+Syed Umair Ali Shah
 
-## GitHub Repository
-The notebook is publicly available at:  
-[Insert your GitHub link here]
 
-## Screenshot
-The first page of the notebook is attached as a screenshot for submission.
